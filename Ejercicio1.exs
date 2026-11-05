@@ -1,3 +1,6 @@
+# Integrantes: Laura Sanchez, Jeison Lopez
+# Universidad del Quindío - Programación III - Parcial 2
+
 defmodule Tramo do
   @moduledoc """
   Estructura que representa un tramo dirigido entre dos centros de distribución.
