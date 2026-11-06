@@ -1,3 +1,6 @@
+# Integrantes: Laura Sanchez, Jeison Lopez
+# Universidad del Quindío - Programación III - Parcial 2 (Ejercicio 2)
+
 defmodule ExploradorRegiones do
   @moduledoc """
   Algoritmo de exploración Flood Fill para encontrar regiones y calcular métricas.

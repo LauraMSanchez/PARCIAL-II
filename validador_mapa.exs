@@ -1,3 +1,6 @@
+# Integrantes: Laura Sanchez, Jeison Lopez
+# Universidad del Quindío - Programación III - Parcial 2 (Ejercicio 2)
+
 defmodule ValidadorRecursivoMapa do
   @moduledoc """
   Validación previa puramente recursiva de cola (tail recursion).
